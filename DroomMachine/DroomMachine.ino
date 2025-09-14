@@ -1,12 +1,13 @@
-#include "M5UnitSynth.h"
-#include <M5Unified.h>
 #include <M5GFX.h>
-#include "NotoSansBold15.h"
-#include "tinyFont.h"
-#include "smallFont.h"
-#include "midleFont.h"
+#include <M5Unified.h>
+#include <M5UnitSynth.h>
+
 #include "bigFont.h"
 #include "font18.h"
+#include "midleFont.h"
+#include "NotoSansBold15.h"
+#include "smallFont.h"
+#include "tinyFont.h"
 
 m5::touch_detail_t touchDetail;
 static int32_t w;
